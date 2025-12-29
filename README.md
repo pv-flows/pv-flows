@@ -19,7 +19,7 @@
 - 🧬 **Formação:** Bacharel em Ciências Biológicas (UFRPE), com pesquisa em Zoologia e Microplásticos.
 - 💻 **Atuação:** Desenvolvimento de automações em JavaScript focadas em workflows, produtividade e sistemas internos.
 - 🧠 **Perfil:** Pensamento analítico, visão sistêmica e otimização de processos operacionais.
-- 🎧 **Interesses:** Techno DJ, cultura sci-fi e estética afrofuturista.
+- 🎧 **Interesses:** Techno DJ, fotografia, edição de imagens e cultura sci-fi.
 - 🌱 **Estudos atuais:** Node.js e manipulação avançada de DOM para automações complexas.
 
 ---
