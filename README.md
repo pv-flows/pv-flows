@@ -8,7 +8,7 @@
     </a>
   </p>
 
-  <h3><i>"Applying scientific thinking to build efficient digital workflows.."</i></h3>
+  <h3><i>"Transformando sistemas complexos em fluxos digitais eficientes."</i></h3>
 
 </div>
 
