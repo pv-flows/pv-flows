@@ -4,10 +4,7 @@
 
   <p>
     <a href="https://github.com/pv-flows">
-      <img src="https://komarev.com/ghpvc/?username=pv-flows&color=blueviolet&style=flat-square&label=Profile+Views" alt="Views" />
-    </a>
-    <a href="https://www.linkedin.com/in/paulovictorfreire98/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://komarev.com/ghpvc/?username=pv-flows&color=23F7DD&style=flat-square&label=Profile+Views" alt="Views" />
     </a>
   </p>
 
@@ -26,16 +23,16 @@
 
 ---
 
-### 🛠 Ferramentas e Tecnologias
+### 🛠 Stack de Automação & Ferramentas
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" alt="JS"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/git.png" title="Git" alt="Git"/>
-  <img src="https://img.icons8.com/fluent/48/github.png" title="GitHub" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" alt="VSCode"/>
-  <img src="https://www.tampermonkey.net/images/icon128.png" width="48" title="Tampermonkey / UserScripts" alt="Tampermonkey"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <br>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Tampermonkey_Scripts-00485B?style=for-the-badge&logo=tampermonkey&logoColor=23F7DD" alt="Tampermonkey" />
 </div>
 
 ---
@@ -47,5 +44,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pv-flows&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" alt="Estatísticas do GitHub de Paulo Victor">
+  <h3>📫 Connect with me</h3>
+  <a href="https://www.linkedin.com/in/paulovictorfreire98/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pv.flows@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Fale_Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
