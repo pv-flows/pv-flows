@@ -20,7 +20,7 @@
 - 💻 **Atuação:** Desenvolvimento de automações em JavaScript focadas em workflows, produtividade e sistemas internos.
 - 🧠 **Perfil:** Pensamento analítico, visão sistêmica e otimização de processos operacionais.
 - 🎧 **Interesses:** DJing, fotografia, edição de imagens e cultura sci-fi.
-- 🌱 **Estudos atuais:** Node.js e manipulação avançada de DOM para automações complexas.
+- 🌱 **Estudos atuais:** Node.js e manipulação de DOM para automações.
 
 ---
 
@@ -41,7 +41,7 @@
 ### 📂 Projetos em Destaque
 
 - **[Customer Service Productivity Suite](https://github.com/pv-flows/customer-service-automation-suite)**  
-  UserScripts voltados à automação de CRM, WhatsApp Web e fluxos de atendimento em operações digitais de alto volume.
+  UserScripts voltados à automação de CRM, Ferramentas Web e fluxos de atendimento em operações digitais de alto volume.
 
 ---
 
