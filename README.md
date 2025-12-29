@@ -1,31 +1,19 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&width=435&lines=Hello%2C+I'm+Paulo+Victor+👋;Biologist+turned+Dev+🧬;JS+%26+Automation+Specialist+💻;Techno+DJ+%26+Sci-Fi+Fan+🎧" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <a href="https://github.com/pv-flows">
-    <img src="https://komarev.com/ghpvc/?username=pv-flows&color=blueviolet&style=flat-square&label=Profile+Views" alt="Views" />
-  </a>
-  <a href="https://www.linkedin.com/in/paulovictorfreire98/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 <div align="center">
-  <h3><i>"Traduzindo a complexidade dos sistemas biológicos em fluxos digitais eficientes."</i></h3>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=3000&pause=800&color=23F7DD&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Paulo+Victor+👋;Biologist+turned+Dev+🧬;JS+%26+Automation+Specialist+💻;Techno+DJ+%26+Sci-Fi+Fan+🎧" alt="Typing SVG" />
+
+  <p>
+    <a href="https://github.com/pv-flows">
+      <img src="https://komarev.com/ghpvc/?username=pv-flows&color=blueviolet&style=flat-square&label=Profile+Views" alt="Views" />
+    </a>
+    <a href="https://www.linkedin.com/in/paulovictorfreire98/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+
+  <h3><i>"Traduzindo a complexidade dos sistemas biológicos<br>em fluxos digitais eficientes."</i></h3>
+
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-NOVO-USERNAME&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-  <a href="https://www.linkedin.com/in/paulovictorfreire98/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Biologist (UFRPE) 🧬 | JS Developer 💻</strong><br>
-  <i>"Aplicando a lógica analítica da ciência para resolver problemas corporativos com código."</i>
-</p>
 
 ---
 
@@ -40,23 +28,24 @@
 
 ### 🛠 Ferramentas e Tecnologias
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
-  <img src="https://img.icons8.com/fluent/48/github.png" title="GitHub"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
-</p>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" alt="JS"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/git.png" title="Git" alt="Git"/>
+  <img src="https://img.icons8.com/fluent/48/github.png" title="GitHub" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" alt="VSCode"/>
+  <img src="https://www.tampermonkey.net/images/icon128.png" width="48" title="Tampermonkey / UserScripts" alt="Tampermonkey"/>
+</div>
 
 ---
 
 ### 📂 Projetos em Destaque
 
-* **[Customer Service Productivity Suite](https://github.com/SEU-NOVO-USERNAME/customer-service-automation-suite):** Coleção de scripts para automação de CRM e WhatsApp Web.
+* **[Customer Service Productivity Suite](https://github.com/pv-flows/customer-service-automation-suite):** Coleção de scripts para automação de CRM e WhatsApp Web.
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pv-flows&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" alt="Estatísticas do GitHub de Paulo Victor">
-</p>
+</div>
