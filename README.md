@@ -1,4 +1,19 @@
-<h1 align="center">Hey there, I'm Paulo Victor <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&width=435&lines=Hello%2C+I'm+Paulo+Victor+👋;Biologist+turned+Dev+🧬;JS+%26+Automation+Specialist+💻;Techno+DJ+%26+Sci-Fi+Fan+🎧" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://github.com/pv-flows">
+    <img src="https://komarev.com/ghpvc/?username=pv-flows&color=blueviolet&style=flat-square&label=Profile+Views" alt="Views" />
+  </a>
+  <a href="https://www.linkedin.com/in/paulovictorfreire98/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<div align="center">
+  <h3><i>"Traduzindo a complexidade dos sistemas biológicos em fluxos digitais eficientes."</i></h3>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SEU-NOVO-USERNAME&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
