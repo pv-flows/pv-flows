@@ -45,10 +45,10 @@
 
 <div align="center">
   <h3>📫 Connect with me</h3>
-  <a href="https://www.linkedin.com/in/paulovictorfreire98/">
+  <a href="https://www.linkedin.com/in/paulovictorfreire98/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=paulovictor.freire@gmail.com&su=Contato%20via%20GitHub&body=Ol%C3%A1%20Paulo%2C%20vim%20pelo%20seu%20GitHub.">
-    <img src="https://img.shields.io/badge/Gmail-Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=paulovictor.freire@gmail.com&su=Contato%20via%20GitHub&body=Ol%C3%A1%20Paulo%2C%20vim%20pelo%20seu%20GitHub." target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Fale_Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
